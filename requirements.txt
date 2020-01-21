@@ -1,0 +1,4 @@
+import pyautogui
+import paperclip
+
+google chrome
