@@ -1,4 +1,2 @@
-import pyautogui
-import paperclip
-
-google chrome
+pyautogui
+pyperclip
